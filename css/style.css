@@ -68,17 +68,6 @@
     margin: 8px 0px 10px 10px;
 }
 
-.message-data{
-    /* display:flex; */
-    /* display:inline-block; */
-    /* border: 2px solid black; */
-    /* width:90px;
-    height:40px; */
-    /* border-radius:50%; */
-    /* margin: auto 0px; */
-    /* padding:; */
-
-}
 
 
 
@@ -90,9 +79,6 @@
        
 }
 
-.message-author{
-
-}
 
 .message-text{
     background: rgb(226, 214, 214);
@@ -130,7 +116,6 @@
 }
 .button-close{
     display:inline-block;
-    float:right;
     margin: 5px 15px;
 }
 
